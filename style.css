@@ -1,0 +1,32 @@
+  h2 {
+    text-align: left;
+    font-weight: bold;
+  }
+  #middle {
+      background-color: lightgrey;
+      border:2px solid black;
+      text-align: center;
+      height: 200;
+      width: 200;
+      font-size:12;
+      font-weight: bold;
+      font-family: sans-serif;
+  }
+  table {
+      border: 2px solid black;
+      border-collapse:collapse;
+      width:50%
+  }
+  th, td, tr {
+      border: 1px solid black;
+      padding: 5px;
+  }
+  th {
+      background-color: lightgrey;
+      padding: 10px;
+  }
+  #bottom {
+      text-align: left;
+      margin-top: : 20px;
+      padding: 5px;
+  }
